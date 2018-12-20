@@ -1,0 +1,14 @@
+body {
+  margin: 0 auto;
+  background: #d2e1dd; }
+
+h1 {
+  font-family: Georgia, Times, serif; }
+
+h2, h3 {
+  font-family: Helvetica, Arial, sans-serif; }
+
+.nav {
+  display: flex; }
+
+/*# sourceMappingURL=app.css.map */
